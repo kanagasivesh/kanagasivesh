@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @kanagasivesh
-- 👀 I’m interested in Data Science and Deep Learning
-- 🌱 Python and Basics of Data Science
-- 💞️ I’m looking to collaborate on 
-- 📫 https://www.linkedin.com/in/kanaga-sivesh-k-s-41242720a/ 
-- 📫 kanagasivesh@gmail.com
-- 📫 https://twitter.com/kanagasivesh
+Reachme out via these social handles https://www.linkedin.com/in/kanaga-sivesh-k-s-41242720a/ 
+  kanagasivesh@gmail.com
+  https://twitter.com/kanagasivesh
 
 <!---
 kanagasivesh/kanagasivesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
