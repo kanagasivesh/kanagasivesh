@@ -1,5 +1,5 @@
 Reachme out via these social handles 
-  https://www.linkedin.com/in/kanaga-sivesh-k-s-41242720a/ 
+  https://www.linkedin.com/in/kanaga-sivesh-k-s 
   kanagasivesh@gmail.com
   https://twitter.com/kanagasivesh
 
