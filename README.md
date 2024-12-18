@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 -->
 <h1 align="center"> Hi 👋, I'm Kanaga Sivesh :) </h1>
 <h3>I'm an engineer passionate about web development, programming, and cloud computing. I thrive on taking on challenging projects that help me grow my skills. Here's a quick look at what I do and some of my highlights.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanagasivesh&label=Profile%20views&color=0e75b6&style=flat" alt="kanagasivesh" /> </p>
 
 - 👩🏾‍💻 I’m currently working at whiteboard
 
@@ -49,5 +50,3 @@ You can click the Preview link to take a look at your changes.
 - **Portfolio**: [your-portfolio-website.com](https://your-portfolio-website.com) -->
 
 Feel free to connect with me and check out my repositories. I'm always open to collaboration and new opportunities!
-
---
