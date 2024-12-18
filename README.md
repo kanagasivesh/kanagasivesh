@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 -->
 <h1 align="center"> Hi 👋, I'm Kanaga Sivesh :) </h1>
 <h3>I'm an engineer passionate about web development, programming, and cloud computing. I thrive on taking on challenging projects that help me grow my skills. Here's a quick look at what I do and some of my highlights.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanagasivesh&label=Profile%20views&color=0e75b6&style=flat" alt="kanagasivesh" /> </p>
-
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanagasivesh&label=Profile%20views&color=0e75b6&style=flat" alt="kanagasivesh" /> </p>
+-->
 - 👩🏾‍💻 I’m currently working at whiteboard
 
 - 🌱 I’m currently learning **Java, JavaScript, Linux**
@@ -24,17 +24,17 @@ You can click the Preview link to take a look at your changes.
 - 📫 You can reach me through [kanagasivesh@gmail.com](mailto:your-email@example.com)
 
 <!--- 📄 Check out my portfolio -  [https://nathamayil.github.io/](https://nathamayil.github.io/) -->
-- ⚡ Fun fact - **I read, learn new languages when I am free :)**
+- ⚡ Fun fact - **I read, learn new languages and technologies :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kanagasivesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vpmonk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kanaga-sivesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathamayil-natesh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_sivesh_ks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the_whimsical_artist_" height="30" width="40" /></a>
+<a href="https://x.com/kanagasivesh" target="blank"><img align="center" src="https://github.com/kanagasivesh/twiitter-aka-x-logo/blob/main/Twitter-Log%D0%BE%20new.svg" alt="kanagasivesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanaga-sivesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanagasivesh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_sivesh_ks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sivesh_ks" height="30" width="40" /></a>
 <!--<a href="https://www.behance.net/nathamayilnatesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nathamayilnatesh" height="30" width="40" /></a>
 <a href="https://medium.com/@mayillikestotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mayillikestotech" height="30" width="40" /></a>-->
-<a href="https://www.hackerrank.com/@vpmonk99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vpmonk99" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vpmonk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vpmonk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kanagasivesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kanagasivesh" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kanagasivesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kanagasivesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🖥️Languages and Tools:</h3>
