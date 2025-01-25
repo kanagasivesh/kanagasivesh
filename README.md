@@ -28,7 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/kanagasivesh" target="blank"><img align="center" src="https://github.com/kanagasivesh/twiitter-aka-x-logo/blob/main/Twitter-Log%D0%BE%20new.svg" alt="kanagasivesh" height="30" width="40" /></a>
+<a href="https://x.com/kanagasivesh" target="blank"><img align="center" src=https://logohistory.net/wp-content/uploads/2023/02/Twitter-Log%D0%BE.svg alt="kanagasivesh" height="30" width="40" /></a><!--
+<a href="https://x.com/kanagasivesh" target="blank"><img align="center" src="https://github.com/kanagasivesh/twiitter-aka-x-logo/blob/main/Twitter-Log%D0%BE%20new.svg" alt="kanagasivesh" height="30" width="40" /></a>-->
 <a href="https://linkedin.com/in/kanaga-sivesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanagasivesh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_sivesh_ks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sivesh_ks" height="30" width="40" /></a>
 <!--<a href="https://www.behance.net/nathamayilnatesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nathamayilnatesh" height="30" width="40" /></a>
