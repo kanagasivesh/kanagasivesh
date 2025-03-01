@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 -->
 - 👩🏾‍💻 I’m currently working at whiteboard
 
-- 🌱 I’m currently learning **Java, Linux**
+- 🌱 I’m currently learning **Java**
   
 - 👨‍💻 All of my projects are available at [https://github.com/kanagasivesh](https://github.com/kanagasivesh)
 
